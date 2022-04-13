@@ -1,4 +1,11 @@
 /*SELECTOR POR ETIQUETA*/
 body{
   background-color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+/*SELECTOR POR CLASE */
+.navegador .navbar{
+  background-color: transparent ! important;
+
 }
